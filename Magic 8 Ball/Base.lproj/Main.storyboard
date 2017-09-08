@@ -37,10 +37,16 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="BradleyHandITCTT-Bold" family="Bradley Hand" pointSize="50"/>
                                 <state key="normal" title="Ask"/>
+                                <connections>
+                                    <action selector="askButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7Zk-qi-mOp"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.15686274509803921" green="0.94268120659722221" blue="0.29582854626225491" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <connections>
+                        <outlet property="ballImage" destination="8bC-Xf-vdC" id="vHh-gH-12f"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
