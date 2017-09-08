@@ -32,6 +32,12 @@
                                 <rect key="frame" x="53" y="208" width="268" height="250"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jVo-QM-v9h">
+                                <rect key="frame" x="142" y="531" width="91" height="75"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="BradleyHandITCTT-Bold" family="Bradley Hand" pointSize="50"/>
+                                <state key="normal" title="Ask"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.15686274509803921" green="0.94268120659722221" blue="0.29582854626225491" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
