@@ -45,7 +45,7 @@
                         <color key="backgroundColor" red="0.15686274509803921" green="0.94268120659722221" blue="0.29582854626225491" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
-                        <outlet property="ballImage" destination="8bC-Xf-vdC" id="vHh-gH-12f"/>
+                        <outlet property="ballImage" destination="Cdx-7G-w1f" id="8Jh-Pz-6Bu"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
